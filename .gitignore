@@ -1,0 +1,5 @@
+app/files/
+*.apk
+*.zip
+*.map
+node_modules/
